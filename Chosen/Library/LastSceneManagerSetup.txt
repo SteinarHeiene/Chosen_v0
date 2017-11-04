@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SteinarAssets/SteinarScene.unity
+  isLoaded: 1
+  isActive: 1
